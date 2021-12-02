@@ -1,1 +1,1 @@
-# linear_regression_python
+# Linear Regression using Python
